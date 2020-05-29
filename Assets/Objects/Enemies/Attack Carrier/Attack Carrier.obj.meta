@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 5004bf3b173f9964fa08c43ce765fe40
+timeCreated: 1509134329
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: plate
+    100004: plate_deck
+    100006: plate_drill
+    100008: plate_face
+    100010: plate_green
+    100012: plate_hatch
+    100014: plate_hatchS
+    100016: plate_hatchS_machineRJ
+    100018: plate_hatchS_machineRJ_plateR1
+    100020: plate_hatchS_machineRJ_plateR1_deckR1
+    100022: plate_hatchS_machineRJ_plateR1_hatchR1
+    100024: plate_hatchS_machineRJ_plateR1_hatchR1_machineR1
+    100026: plate_hatchS_machineRJ_plateR1_hatchR1_machineR1b
+    100028: plate_hatchS_machineRJ_plateR1_hatchR1_redstripeR1
+    100030: plate_hatchS_machineRJ_plateR1_ventR1
+    100032: plate_hatchS_machineRJ_plateR2
+    100034: plate_hatchS_machineRJ_plateR2_deckR2
+    100036: plate_hatchS_machineRJ_plateR2_hatchR2
+    100038: plate_hatchS_machineRJ_plateR2_hatchR2_machineR2
+    100040: plate_hatchS_machineRJ_plateR2_hatchR2_redstripeR2
+    100042: plate_hatchS_machineRJ_plateR2_ventR2
+    100044: plate_hatchS_shield
+    100046: plate_machine
+    100048: plate_redstripe
+    100050: plate_yellow
+    100052: plate_yellow_machineLJ
+    100054: plate_yellow_plateL
+    100056: plate_yellow_plateL_machineL
+    100058: plate_yellow_plateL_redstripeL
+    100060: plate_yellow_plateL_redstripeL_hatchL
+    100062: plate_yellow_plateL_redstripeL_hatchL_yellowL
+    100064: plate_yellow_plateL_redstripeL_luckgood
+    100066: plate_yellow_plateL_ventL
+    400000: //RootNode
+    400002: plate
+    400004: plate_deck
+    400006: plate_drill
+    400008: plate_face
+    400010: plate_green
+    400012: plate_hatch
+    400014: plate_hatchS
+    400016: plate_hatchS_machineRJ
+    400018: plate_hatchS_machineRJ_plateR1
+    400020: plate_hatchS_machineRJ_plateR1_deckR1
+    400022: plate_hatchS_machineRJ_plateR1_hatchR1
+    400024: plate_hatchS_machineRJ_plateR1_hatchR1_machineR1
+    400026: plate_hatchS_machineRJ_plateR1_hatchR1_machineR1b
+    400028: plate_hatchS_machineRJ_plateR1_hatchR1_redstripeR1
+    400030: plate_hatchS_machineRJ_plateR1_ventR1
+    400032: plate_hatchS_machineRJ_plateR2
+    400034: plate_hatchS_machineRJ_plateR2_deckR2
+    400036: plate_hatchS_machineRJ_plateR2_hatchR2
+    400038: plate_hatchS_machineRJ_plateR2_hatchR2_machineR2
+    400040: plate_hatchS_machineRJ_plateR2_hatchR2_redstripeR2
+    400042: plate_hatchS_machineRJ_plateR2_ventR2
+    400044: plate_hatchS_shield
+    400046: plate_machine
+    400048: plate_redstripe
+    400050: plate_yellow
+    400052: plate_yellow_machineLJ
+    400054: plate_yellow_plateL
+    400056: plate_yellow_plateL_machineL
+    400058: plate_yellow_plateL_redstripeL
+    400060: plate_yellow_plateL_redstripeL_hatchL
+    400062: plate_yellow_plateL_redstripeL_hatchL_yellowL
+    400064: plate_yellow_plateL_redstripeL_luckgood
+    400066: plate_yellow_plateL_ventL
+    2300000: plate
+    2300002: plate_deck
+    2300004: plate_drill
+    2300006: plate_face
+    2300008: plate_green
+    2300010: plate_hatch
+    2300012: plate_hatchS
+    2300014: plate_hatchS_machineRJ
+    2300016: plate_hatchS_machineRJ_plateR1
+    2300018: plate_hatchS_machineRJ_plateR1_deckR1
+    2300020: plate_hatchS_machineRJ_plateR1_hatchR1
+    2300022: plate_hatchS_machineRJ_plateR1_hatchR1_machineR1
+    2300024: plate_hatchS_machineRJ_plateR1_hatchR1_machineR1b
+    2300026: plate_hatchS_machineRJ_plateR1_hatchR1_redstripeR1
+    2300028: plate_hatchS_machineRJ_plateR1_ventR1
+    2300030: plate_hatchS_machineRJ_plateR2
+    2300032: plate_hatchS_machineRJ_plateR2_deckR2
+    2300034: plate_hatchS_machineRJ_plateR2_hatchR2
+    2300036: plate_hatchS_machineRJ_plateR2_hatchR2_machineR2
+    2300038: plate_hatchS_machineRJ_plateR2_hatchR2_redstripeR2
+    2300040: plate_hatchS_machineRJ_plateR2_ventR2
+    2300042: plate_hatchS_shield
+    2300044: plate_machine
+    2300046: plate_redstripe
+    2300048: plate_yellow
+    2300050: plate_yellow_machineLJ
+    2300052: plate_yellow_plateL
+    2300054: plate_yellow_plateL_machineL
+    2300056: plate_yellow_plateL_redstripeL
+    2300058: plate_yellow_plateL_redstripeL_hatchL
+    2300060: plate_yellow_plateL_redstripeL_hatchL_yellowL
+    2300062: plate_yellow_plateL_redstripeL_luckgood
+    2300064: plate_yellow_plateL_ventL
+    3300000: plate
+    3300002: plate_deck
+    3300004: plate_drill
+    3300006: plate_face
+    3300008: plate_green
+    3300010: plate_hatch
+    3300012: plate_hatchS
+    3300014: plate_hatchS_machineRJ
+    3300016: plate_hatchS_machineRJ_plateR1
+    3300018: plate_hatchS_machineRJ_plateR1_deckR1
+    3300020: plate_hatchS_machineRJ_plateR1_hatchR1
+    3300022: plate_hatchS_machineRJ_plateR1_hatchR1_machineR1
+    3300024: plate_hatchS_machineRJ_plateR1_hatchR1_machineR1b
+    3300026: plate_hatchS_machineRJ_plateR1_hatchR1_redstripeR1
+    3300028: plate_hatchS_machineRJ_plateR1_ventR1
+    3300030: plate_hatchS_machineRJ_plateR2
+    3300032: plate_hatchS_machineRJ_plateR2_deckR2
+    3300034: plate_hatchS_machineRJ_plateR2_hatchR2
+    3300036: plate_hatchS_machineRJ_plateR2_hatchR2_machineR2
+    3300038: plate_hatchS_machineRJ_plateR2_hatchR2_redstripeR2
+    3300040: plate_hatchS_machineRJ_plateR2_ventR2
+    3300042: plate_hatchS_shield
+    3300044: plate_machine
+    3300046: plate_redstripe
+    3300048: plate_yellow
+    3300050: plate_yellow_machineLJ
+    3300052: plate_yellow_plateL
+    3300054: plate_yellow_plateL_machineL
+    3300056: plate_yellow_plateL_redstripeL
+    3300058: plate_yellow_plateL_redstripeL_hatchL
+    3300060: plate_yellow_plateL_redstripeL_hatchL_yellowL
+    3300062: plate_yellow_plateL_redstripeL_luckgood
+    3300064: plate_yellow_plateL_ventL
+    4300000: plate
+    4300002: plate_deck
+    4300004: plate_drill
+    4300006: plate_face
+    4300008: plate_green
+    4300010: plate_hatch
+    4300012: plate_hatchS
+    4300014: plate_hatchS_machineRJ
+    4300016: plate_hatchS_machineRJ_plateR1
+    4300018: plate_hatchS_machineRJ_plateR1_deckR1
+    4300020: plate_hatchS_machineRJ_plateR1_hatchR1
+    4300022: plate_hatchS_machineRJ_plateR1_hatchR1_machineR1
+    4300024: plate_hatchS_machineRJ_plateR1_hatchR1_machineR1b
+    4300026: plate_hatchS_machineRJ_plateR1_hatchR1_redstripeR1
+    4300028: plate_hatchS_machineRJ_plateR1_ventR1
+    4300030: plate_hatchS_machineRJ_plateR2
+    4300032: plate_hatchS_machineRJ_plateR2_deckR2
+    4300034: plate_hatchS_machineRJ_plateR2_hatchR2
+    4300036: plate_hatchS_machineRJ_plateR2_hatchR2_machineR2
+    4300038: plate_hatchS_machineRJ_plateR2_hatchR2_redstripeR2
+    4300040: plate_hatchS_machineRJ_plateR2_ventR2
+    4300042: plate_hatchS_shield
+    4300044: plate_machine
+    4300046: plate_redstripe
+    4300048: plate_yellow
+    4300050: plate_yellow_machineLJ
+    4300052: plate_yellow_plateL
+    4300054: plate_yellow_plateL_machineL
+    4300056: plate_yellow_plateL_redstripeL
+    4300058: plate_yellow_plateL_redstripeL_hatchL
+    4300060: plate_yellow_plateL_redstripeL_hatchL_yellowL
+    4300062: plate_yellow_plateL_redstripeL_luckgood
+    4300064: plate_yellow_plateL_ventL
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.03
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

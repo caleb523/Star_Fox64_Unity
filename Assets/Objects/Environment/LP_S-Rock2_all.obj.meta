@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: ea5d18e088520f849b79b5ab6c3ee214
+timeCreated: 1509402789
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LP_S_Rock2_01
+    100004: LP_S_Rock2_02
+    100006: LP_S_Rock2_03
+    100008: LP_S_Rock2_04
+    100010: LP_S_Rock2_05
+    100012: LP_S_Rock2_06
+    100014: LP_S_Rock2_07
+    100016: LP_S_Rock2_08
+    100018: LP_S_Rock2_09
+    100020: LP_S_Rock2_10
+    100022: LP_S_Rock2_11
+    100024: LP_S_Rock2_12
+    100026: LP_S_Rock2_13
+    100028: LP_S_Rock2_14
+    100030: LP_S_Rock2_15
+    400000: //RootNode
+    400002: LP_S_Rock2_01
+    400004: LP_S_Rock2_02
+    400006: LP_S_Rock2_03
+    400008: LP_S_Rock2_04
+    400010: LP_S_Rock2_05
+    400012: LP_S_Rock2_06
+    400014: LP_S_Rock2_07
+    400016: LP_S_Rock2_08
+    400018: LP_S_Rock2_09
+    400020: LP_S_Rock2_10
+    400022: LP_S_Rock2_11
+    400024: LP_S_Rock2_12
+    400026: LP_S_Rock2_13
+    400028: LP_S_Rock2_14
+    400030: LP_S_Rock2_15
+    2300000: LP_S_Rock2_01
+    2300002: LP_S_Rock2_02
+    2300004: LP_S_Rock2_03
+    2300006: LP_S_Rock2_04
+    2300008: LP_S_Rock2_05
+    2300010: LP_S_Rock2_06
+    2300012: LP_S_Rock2_07
+    2300014: LP_S_Rock2_08
+    2300016: LP_S_Rock2_09
+    2300018: LP_S_Rock2_10
+    2300020: LP_S_Rock2_11
+    2300022: LP_S_Rock2_12
+    2300024: LP_S_Rock2_13
+    2300026: LP_S_Rock2_14
+    2300028: LP_S_Rock2_15
+    3300000: LP_S_Rock2_01
+    3300002: LP_S_Rock2_02
+    3300004: LP_S_Rock2_03
+    3300006: LP_S_Rock2_04
+    3300008: LP_S_Rock2_05
+    3300010: LP_S_Rock2_06
+    3300012: LP_S_Rock2_07
+    3300014: LP_S_Rock2_08
+    3300016: LP_S_Rock2_09
+    3300018: LP_S_Rock2_10
+    3300020: LP_S_Rock2_11
+    3300022: LP_S_Rock2_12
+    3300024: LP_S_Rock2_13
+    3300026: LP_S_Rock2_14
+    3300028: LP_S_Rock2_15
+    4300000: LP_S_Rock2_01
+    4300002: LP_S_Rock2_02
+    4300004: LP_S_Rock2_03
+    4300006: LP_S_Rock2_04
+    4300008: LP_S_Rock2_05
+    4300010: LP_S_Rock2_06
+    4300012: LP_S_Rock2_07
+    4300014: LP_S_Rock2_08
+    4300016: LP_S_Rock2_09
+    4300018: LP_S_Rock2_10
+    4300020: LP_S_Rock2_11
+    4300022: LP_S_Rock2_12
+    4300024: LP_S_Rock2_13
+    4300026: LP_S_Rock2_14
+    4300028: LP_S_Rock2_15
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_01Mat
+    second: {fileID: 2100000, guid: 3323e56761d03a84582b7e9a1d7309ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_02Mat
+    second: {fileID: 2100000, guid: 42a877767b18f1b418ee8d35afba9a9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_03Mat
+    second: {fileID: 2100000, guid: cc4ffe764e5510841b446db29a677ab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_04Mat
+    second: {fileID: 2100000, guid: 50db14b34bd527d4ca7fc0da3c32dcb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_05Mat
+    second: {fileID: 2100000, guid: 4aca22b4b80a0d941aa3ca1f0ab10562, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_06Mat
+    second: {fileID: 2100000, guid: cb5d69cfde602c3488d1eae0a9195d4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_07Mat
+    second: {fileID: 2100000, guid: ae7f983a687f1704d85767f34ad9c0d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_08Mat
+    second: {fileID: 2100000, guid: f7202078c90087441af30d64352780b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_09Mat
+    second: {fileID: 2100000, guid: bb3137df0242b8c4a9573ef885fc39fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_10Mat
+    second: {fileID: 2100000, guid: 66f0b1e3829ed924595ba8d315def95f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_11Mat
+    second: {fileID: 2100000, guid: 49a5436aa72af59459c7167da51e48fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_12Mat
+    second: {fileID: 2100000, guid: 0644af74f40bb1a4e962fc60b10e68c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_13Mat
+    second: {fileID: 2100000, guid: 41239b6be035c0643b7ee69cbef4eb9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_14Mat
+    second: {fileID: 2100000, guid: 108e24aa632f9b1488d33cf745f7f1ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_S_Rock2_15Mat
+    second: {fileID: 2100000, guid: 65dc264677aeccc489e23f0f8b1661dc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
